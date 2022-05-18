@@ -30,4 +30,4 @@ In order to install pygame on your computer write the below code in your cmd or 
 After downloading the zip file of the source code all you need to do is extract it and navigate to the next folder and after that, you have to run the main.py file.<br>
 ![image-11](https://user-images.githubusercontent.com/98451723/169044325-7d5dfdeb-35ea-42f8-9839-32c44d3a9cd8.png)
 
-
+Know it's Done Enjoy the game ☺️☺
